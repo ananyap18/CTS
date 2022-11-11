@@ -25,7 +25,7 @@ The application opens a whole new arena in the ecommerce world. So it functions 
 12. The checkout cart will be connected to the wallet and the user can buy the product using our currency.<br>
 13. The buyers after using the product can review it and other potential buyers can make a decision to buy a product or not.<br>
 
-<h3> Background work 🔴</h3>
+<h3> Background work </h3>
 This web3 app is an amalgamation of amazon and tiktok, both being very popular in today's time. People today run to amazon immediately for small things and spend most of their time on tiktok / instagram. We are trying to accumulate the best and profitable features from both the apps. <br> 
 
 <h3> Why is it unique?🎉 </h3>
@@ -34,8 +34,23 @@ This web3 app is an amalgamation of amazon and tiktok, both being very popular i
 3. It is a secure place for both, the sellers and the buyers.
 4. The sellers get the money starightaway and the buyers know the sellers are authentic.<br>
 
-<h4>Yes, it delivers the business value as it uses the best features of the two popular apps. If needed, the app can host ads too, to generate more revenue.<br>
-</h4>
+<h3> Will the idea generate revenue? 🔴</h3>
+Yes, it delivers the business value as it uses the best features of the two popular apps. If needed, the app can host ads too, to generate more revenue.<br>
+  
+<h3> Is the idea implementable? 🔴</h3>
+Yes
+  
+<h3> Is the idea scalable and if yes, then how? 🔴</h3>
+Yes, the idea is very scalable. Upon usage, we can use the data generated to get personal customized feed for an engaging experience. Ads can be used to generate profits and it can be scales worldwide as it is on blockchain. <br>
 
+<h3> Extent of implementation duing MVP Phase </h3>
+As the minimum viable product, the version 0.0, we can implement all the features said above leaving the customised feed as we dont have the user data as of now. In future we plan to add that and add features like save/ wishlist. We also plan to give the stores rating upon their sales and user experience.
+<br>
 
 <h3>How are we planning to build it🔨</h3>
+<img src = https://img.shields.io/badge/-next.js-blue>
+<img src = https://img.shields.io/badge/-moralis-9cf>
+<img src = https://img.shields.io/badge/-solidity-ff69b4>
+<img src = https://img.shields.io/badge/-tailwind-yellow>
+<img src = https://img.shields.io/badge/-netlify-yellowgreen>
+<img src = https://img.shields.io/badge/-infura-critical>
